@@ -17,6 +17,9 @@ footer {
 .works {
   border: solid red 5px;
 }
+#works-container {
+  border: solid red 5px;
+}
 
 #img-container {
   border: solid red 5px;
