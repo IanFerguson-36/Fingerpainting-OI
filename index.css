@@ -1,0 +1,27 @@
+header {
+  border: solid red 5px;
+}
+
+body {
+  border: solid red 5px;
+}
+
+footer {
+  border: solid red 5px;
+}
+
+.bio {
+  border: solid red 5px;
+}
+
+.works {
+  border: solid red 5px;
+}
+
+#img-container {
+  border: solid red 5px;
+}
+
+.contact-info {
+  border: solid red 5px;
+}
