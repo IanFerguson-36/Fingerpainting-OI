@@ -1,8 +1,9 @@
-header > ul {
-  display: flex;
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
   border: solid red 2px;
-  flex-direction: row;
-  justify-content: flex-start;
 }
 
 body {
@@ -36,4 +37,5 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  border: solid red 2px;
 }
