@@ -48,3 +48,12 @@ footer {
   width: 400px;
   height: 400px;
 }
+
+.bio {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.bio-text {
+  border: solid red 2px;
+}
