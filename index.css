@@ -4,6 +4,8 @@
 
 header {
   border: solid red 2px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 body {
@@ -35,7 +37,14 @@ footer {
 
 .nav-container {
   display: flex;
+
   flex-direction: row;
   justify-content: space-evenly;
   border: solid red 2px;
+  margin: 0 auto;
+}
+
+#img-container {
+  width: 400px;
+  height: 400px;
 }
